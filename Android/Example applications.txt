@@ -1,0 +1,70 @@
+Spotlight: подсказки для интерфейса
+Исходники: https://github.com/NicholasMata/Spotlight
+
+Cascade: всплывающие меню
+Исходники: https://github.com/saket/cascade
+
+CircleMenu: круговое меню для Android
+Исходники: https://github.com/ImangazalievM/CircleMenu
+
+JetInstagram: Instagram на Jetpack Compose
+Исходники: https://github.com/vipulasri/JetInstagram
+
+Blue Pair: работа с Bluetooth в Android
+Исходники: https://github.com/aurasphere/blue-pair
+
+Jetpack Release Tracker: отслеживание обновлений AndroidX
+Исходники: https://github.com/lmj0011/jetpack-release-tracker
+
+Awesome Dialog: красивые уведомления для Android
+Awesome Dialog — красивые диалоги на Kotlin. Умеют показывать уведомления, уведомления с двумя кнопками, уведомления с кнопками и иконкой. Можно раскрашивать фон, настраивать шрифт, менять положение на экране.
+Исходники: https://github.com/chnouman/AwesomeDialog
+
+Android Additive Animations: анимации для Android
+Android Additive Animations — библиотека для простого создания (аддитивных) анимаций. Аддитивная анимация — это анимация, которая складывается с имеющимся движением чтобы придать вторичное поведение. Разработчик везде пишет, что его анимации именно аддитивные, хотя, судя по скриншотам, это просто анимации объектов с несколькими точками движения. Так или иначе, если хотите красивых движений в вашем приложении, то попробуйте Android Additive Animations.
+Исходники: https://github.com/wirecube/android_additive_animations
+
+TextWriter: анимированный текст
+TextWriter — анимированное появление текста. Зачем такое может понадобиться на вскидку трудно представить, но выглядит, надо признать, очень красиво.
+Исходники: https://github.com/sarnavakonar/TextWriter
+
+Antimine — Minesweeper: сапер для Android
+Antimine — Minesweeper — классический сапер для Android. С разным уровнем сложности, статистикой, сохранением результатов, поддержкой Android Wear OS, темной темы, App shortcuts, Split screen, Assessability и прочими модными функциями.
+Antimine — Minesweeper: сапер для Android
+
+MovieHunt: правильная архитектура кино для Android
+MovieHunt — еще одно приложение про кино, основанное на The Movie DB API и реализующее современный стек Android-разработки.
+Внутри MVVM, Kotlin, реактивщина, Android Architecture Components и Jetpack, Single activity, инъекция зависимостей. 
+Исходники: https://github.com/enginebai/MovieHunt
+
+Gallerit: современная галерея
+Исходники: https://github.com/auron567/Gallerit
+
+MaterialResideMenu: меню с параллаксом для Android
+MaterialResideMenu — боковое выезжающее меню с параллаксом. Написано на Kotlin с применением Jetpack Navigation component и Material Components for Android.
+Исходники: https://github.com/chintanrparmar/MaterialResideMenu
+
+GraphView: графики для Android
+GraphView — простая Android-библиотека для рисования графиков. При этом для отображения настраивается практически все — цвет градиента и его наличие, размер и цвет точек, цвет линий и их толщина и пр.
+Исходники: https://github.com/NsAveek/GraphView
+
+Scrcast: запись экрана в приложении для Android
+Scrcast — библиотека для записи экрана и действий пользователя в приложении для Android. Написана на Kotlin, использует корутины и Android Jetpack. 
+Исходники: https://github.com/bmcreations/scrcast
+
+MarvelHeroes: супергерои в Android-разработке
+MarvelHeroes — приложение для Android, в котором есть (загибайте пальцы): Kotlin и корутины для асинхронности, JetPack (LiveData, Lifecycle, ViewModel, Room Persistence), MVVM-архитектура, Koin, библиотеки Retrofit2 & Gson, OkHttp3, Sandwich, Glide, TransformationLayout, WhatIf, DiscreteScrollView, Timber, Material-Components, юнит-тестирование Robolectric и Mockito-Kotlin.
+Исходники: https://github.com/skydoves/MarvelHeroes
+
+NY Times: JSoup и современная Android-архитектура
+Приложение для NY Times, призванное показать возможности JSoup и современные инструменты разработки Android-приложений.
+Внутри:
+    Kotlin
+    JSoup (открытый Java HTML парсер)
+    корутины
+    Android Architecture Components — LiveData, ViewModel, Room, Jetpack Navigation.
+Исходники: https://github.com/TheCodeMonks/NYTimes-App
+
+Diaguard: приложение для диабетиков
+Diaguard — открытое приложение для людей с диабетом. Помогает вести дневник и отслеживать уровень сахара в крови.
+Исходники: https://github.com/Faltenreich/Diaguard

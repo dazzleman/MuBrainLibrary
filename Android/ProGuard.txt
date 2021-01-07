@@ -1,0 +1,2 @@
+Troubleshooting ProGuard issues on Android
+https://medium.com/androiddevelopers/troubleshooting-proguard-issues-on-android-bce9de4f8a74

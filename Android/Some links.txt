@@ -1,0 +1,14 @@
+How to retrieve an Unique ID to identify Android devices ?
+https://ssaurel.medium.com/how-to-retrieve-an-unique-id-to-identify-android-devices-6f99fd5369eb
+
+Masking Bitmaps на Android
+https://habr.com/ru/company/badoo/blog/310618/
+
+AlertDialog и стили
+https://medium.com/chewing-android-for-beginners/alertdialog-и-стили-8b2b4d6ebea3
+
+Measure… Layout… Draw!
+https://medium.com/@britt.barak/measure-layout-draw-483c6a4d2fab
+
+Protecting secrets in an Android project
+https://proandroiddev.com/protecting-secrets-in-an-android-project-ff99eaf7b9ec
