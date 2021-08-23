@@ -1,6 +1,9 @@
 How to retrieve an Unique ID to identify Android devices ?
 https://ssaurel.medium.com/how-to-retrieve-an-unique-id-to-identify-android-devices-6f99fd5369eb
 
+How to Correctly Save the State of a Custom View in Android
+https://www.netguru.com/blog/how-to-correctly-save-the-state-of-a-custom-view-in-android
+
 Masking Bitmaps на Android
 https://habr.com/ru/company/badoo/blog/310618/
 
@@ -12,3 +15,55 @@ https://medium.com/@britt.barak/measure-layout-draw-483c6a4d2fab
 
 Protecting secrets in an Android project
 https://proandroiddev.com/protecting-secrets-in-an-android-project-ff99eaf7b9ec
+
+WorkManager
+https://medium.com/androiddevelopers/introducing-workmanager-2083bcfc4712
+https://medium.com/androiddevelopers/customizing-workmanager-fundamentals-fdaa17c46dd2
+
+Paging 3
+https://proandroiddev.com/how-to-use-the-paging-3-library-in-android-5d128bb5b1d8
+https://apptractor.ru/info/media/jetpack-paging-3-paginatsiya-na-android.html
+
+MotionLayout
+https://code.tutsplus.com/ru/tutorials/creating-animations-with-motionlayout-for-android--cms-31497
+https://habr.com/ru/company/badoo/blog/458854/
+https://developer.android.com/training/constraint-layout/motionlayout
+https://medium.com/google-developers/introduction-to-motionlayout-part-i-29208674b10d
+https://proandroiddev.com/complex-ui-animations-on-android-featuring-motionlayout-aa82d83b8660
+Motion Layout: Building a collapsible header - MAD Skills
+https://www.youtube.com/watch?v=xXR9bOHJ648&ab_channel=AndroidDevelopers
+
+AnimatedVectorDrawable
+https://medium.com/@manuelvicnt/your-app-icon-as-animatedvectordrawable-92325ba07c8e
+https://www.fandroid.info/vektornaya-animatsiya-v-prilozheniyah-android-animated-vector-drawable/
+
+
+RecyclerView
+Implementing an auto scrolling circular RecyclerView with Kotlin and RxJava
+https://tomoima525.medium.com/implementing-an-auto-scrolling-circular-recyclerview-with-kotlin-and-rxjava-eb253c1c7a28#:~:text=To%20make%20RecyclerView%20auto%20scroll,to%20the%20scroll%20state%20change.
+Ускоряем работу RecyclerView. Лучшие практики оптимизации
+https://www.youtube.com/watch?v=o8rzzQPOo2U&ab_channel=AndroidBroadcast.%D0%92%D1%81%D0%B5%D0%BE%D0%B1%D0%90%D0%BD%D0%B4%D1%80%D0%BE%D0%B8%D0%B4%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%BA%D0%B5
+
+Edit Text
+Masks in Android's Edit Text fields
+https://medium.com/@diegoy_kuri/masks-in-android-edit-text-fields-33a2fd47f1af
+Вводим текст красиво
+https://habr.com/ru/company/tinkoff/blog/312968/
+
+NFC
+How to Read and Write NFC tags on Android
+https://proandroiddev.com/working-with-nfc-tags-on-android-c1e5af47a3db
+Reading NFC tags with Android (Kotlin)
+https://www.excellarate.com/blogs/reading-nfc-tags-with-android-kotlin/
+NFC reading data from Credit Card with Android
+https://medium.com/@msarahkhan/nfc-reading-data-from-credit-card-with-android-b60d496d43ba
+
+Bottom Sheet
+Android Bottom Sheet / Bottom Sheet Behavior
+https://droidbyme.medium.com/android-bottom-sheet-7e9cfcec6427
+Sheets: bottom
+https://material.io/components/sheets-bottom/android#using-standard-bottom-sheets
+Bottom sheet. Всплывающая информационная панель
+https://dimlix.com/bottomsheet-drawer/
+Android Bottom Sheet Behavior and Animated Button on Top of It
+https://proandroiddev.com/android-bottom-sheet-behavior-and-animated-button-on-top-of-it-da86a9bfe545
